@@ -1,9 +1,0 @@
-Paso 1 copiar los datos de la carpeta meet and coffe y copiar la carpeta con el mismo nombre agregando un 2 al final en la raíz de dia 9.
-cp -r meet_coffe meet_coffe_2
- Paso 2 entrar a la carpeta meet and cofee2 y borrar el archivo .git
- cd meet_coffe_2/
- rm -rf .git/
- Paso 3 abrir la carpeta meet an coffee 2 en vsc y volver a hacer los pasos (git init, git add, etc)
-git init
-git add .
-git commit -m "Mi segundo commit!"
